@@ -53,9 +53,8 @@ p {
     margin-bottom: 55px;
 }
 
-a {
+button{
     color: #6FBF44;
-    font-family: Poppins;
     font-size: 18px;
     font-weight: 500;
     letter-spacing: 1px;
